@@ -37,3 +37,5 @@ Notice to publish your slidify presentation to github or Rpubs, there's the publ
 
 Shiny App created is provided by the link:
 http://127.0.0.1:6010/
+
+Github Reporistory is https://github.com/Rongeet/Shiny-App-And-Reproducible-Pitch
